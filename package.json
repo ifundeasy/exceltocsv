@@ -1,0 +1,23 @@
+{
+  "name": "exceltocsv",
+  "version": "1.0.0",
+  "description": "just excel to csv file",
+  "main": "exceltocsv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "excel",
+    "csv"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rappresent/exceltocsv.git"
+  },
+  "author": "Afa Rappresent",
+  "license": "ISC",
+  "dependencies": {
+    "entities": "^1.1.1",
+    "xlsx": "^0.8.0"
+  }
+}

@@ -11,6 +11,7 @@ $ sudo npm install
 $ node exceltocsv.js [input] [optional]
 ```
 [input] : is a excel file / directory of excel (recursive)
+
 [optional] : you can change this with 'true' or something else (for force overwrite existing csv file)
 
 ## License

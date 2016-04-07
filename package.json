@@ -10,10 +10,6 @@
     "excel",
     "csv"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rappresent/exceltocsv.git"
-  },
   "author": "Afa Rappresent",
   "license": "ISC",
   "dependencies": {
